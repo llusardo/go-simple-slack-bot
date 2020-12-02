@@ -1,4 +1,4 @@
-module github.com/llusardo/simple-go-slack-bot
+module github.com/llusardo/go-simple-slack-bot
 
 go 1.14
 
