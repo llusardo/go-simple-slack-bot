@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/llusardo/simple-go-slack-bot/slack"
+	"github.com/llusardo/go-simple-slack-bot/slack"
 	"net/http"
 	"os"
 )
